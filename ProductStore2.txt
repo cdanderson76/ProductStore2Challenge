@@ -1,0 +1,6 @@
+1. Use the MongoDB docs that you drew up in order to connect to the created database in MongoDB
+
+2. From there, write the appropriate code in order to successfully connect, and generate the message 
+you see in Anki within' the VSCode console.
+
+Solution: https://www.udemy.com/course/the-web-dev-bootcamp/learn/lecture/47840779#overview
